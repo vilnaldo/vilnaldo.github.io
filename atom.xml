@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vilnaldo.github.io</id>
+    <title>普通网友·祝先生</title>
+    <updated>2023-09-02T20:16:55.878Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vilnaldo.github.io"/>
+    <link rel="self" href="https://vilnaldo.github.io/atom.xml"/>
+    <subtitle>前电商从业者｜中年男人｜热爱足球｜胸无大志｜纯日常絮叨｜轻度社恐</subtitle>
+    <logo>https://vilnaldo.github.io/images/avatar.png</logo>
+    <icon>https://vilnaldo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 普通网友·祝先生</rights>
+    <entry>
+        <title type="html"><![CDATA[失业男人的絮絮叨叨]]></title>
+        <id>https://vilnaldo.github.io/post/shi-ye-nan-ren-de-xu-xu-tao-tao/</id>
+        <link href="https://vilnaldo.github.io/post/shi-ye-nan-ren-de-xu-xu-tao-tao/">
+        </link>
+        <updated>2023-09-02T16:41:09.000Z</updated>
+        <content type="html"><![CDATA[<p>我，一个三十多岁的未婚男人，待业、轻度社恐、焦虑，对未来没有任何期待。</p>
+<p>我估计我这辈子大概率就是没法混得风生水起了，当然我也不指望能大富大贵，毕竟自己有多大能耐，我心里还是有数的。</p>
+<p>这两年我一直在减肥，节食、运动，跟一帮根本不熟但假装很熟的队友踢球。好在成果喜人，从两百六十斤瘦到了一百三十斤。</p>
+<p>嗯，目前好像也就减肥成果这事儿暂时还能小骄傲一下。毕竟失业了嘛，还得假装自己有工作，想想我也是挺虚伪的。</p>
+<h1 id="轻度社恐">轻度社恐</h1>
+<p>人没了工作，自然就不愿意去跟朋友聚会。我这年纪的，大多都结婚生子了。人家拖家带口的，我一光混儿，去了也是尴尬。</p>
+<p>我不去参加社交活动，朋友当然就越来越少了。慢慢地，我就开始变得轻度社恐了。</p>
+<p>想想我都觉得荒谬，两年前我还是酒桌上的野生黄段子手，搞气氛还全靠我来着......<br>
+这会儿我居然他妈的变成了轻度社恐。</p>
+<h1 id="纯日常絮叨">纯日常絮叨</h1>
+<p>我已经基本不发朋友圈了，只是经常会刷下推特、微博之类的社交媒体。<br>
+最近讨厌胡扯国际政治的反贼，也讨厌指点江山的狂生，所以我很多社交账号也懒得更新了。<br>
+嗯，我也的确不知道该发点什么好。</p>
+<p>精彩、快乐的日常生活我基本没有。苦闷、絮叨的啐啐念又不知道讲给谁听。</p>
+<p>可我总觉得我需要有个能打字的地方，把想说的东西一股脑全倒出来。<br>
+无意中看到这儿了，挺好，全当个树洞了。</p>
+<h1 id="写给陌生人">写给陌生人</h1>
+<p>哦，对了。这个Xlog似乎会被其他人看到。</p>
+<p>嗯，如果你能坚持看到这里的话，那也真是挺不容易的，毕竟全篇都是一个中年废柴自说自话的絮絮叨叨。</p>
+<p>若是万一你想要留言的话，我个人希望你能尽量友善一点儿。<br>
+毕竟咱俩都是无冤无仇的路人，我这人之前脾气差，现在性格变了，也不爱跟人起冲突。</p>
+<p>你说什么都对吧。<br>
+我暂时就写到这儿了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://vilnaldo.github.io/post/hello-gridea/</id>
+        <link href="https://vilnaldo.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
